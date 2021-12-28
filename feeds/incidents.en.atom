@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://status.dyocense.com</id>
+    <title>Dyocense</title>
+    <updated>2021-12-20T11:32:30.222Z</updated>
+    <generator>Statusfy</generator>
+    <link rel="alternate" href="https://status.dyocense.com"/>
+    <link rel="self" href="https://status.dyocense.com/feeds/incidents.en.atom"/>
+    <subtitle>Dyocense Status Service</subtitle>
+    <entry>
+        <title type="html"><![CDATA[prod deployment]]></title>
+        <id>https://status.dyocense.com/incidents/11568e0e</id>
+        <link href="https://status.dyocense.com/incidents/11568e0e"/>
+        <updated>2021-12-20T11:23:30.465Z</updated>
+        <content type="html"><![CDATA[<p>general production deployment</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
+</feed>
